@@ -1,6 +1,8 @@
 # cmest
 Causal Mediation Analysis Use cmest (CMAverse) With (In) R Software
 
+https://www.youtube.com/watch?v=xTI6bK-8S9Q
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
